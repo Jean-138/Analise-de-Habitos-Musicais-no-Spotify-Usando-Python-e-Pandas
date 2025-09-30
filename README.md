@@ -25,7 +25,7 @@ Este arquivo é uma versão do dataset original "Top Spotify Songs in Countries"
 - Python 3.x
 - Pandas
 - Matplotlib
-- Jupyter Notebook ou VS Code
+- VS Code
 
 ## Como Executar
 
