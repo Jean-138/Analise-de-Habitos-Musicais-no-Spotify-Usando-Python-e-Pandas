@@ -42,3 +42,5 @@ O notebook traz tabelas, gráficos e interpretações que revelam padrões claro
 ---
 
 Projeto desenvolvido por **Jean**
+
+GitHub: [https://github.com/Jean-138](https://github.com/Jean-138)
